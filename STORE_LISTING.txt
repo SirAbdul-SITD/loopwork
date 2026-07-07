@@ -1,0 +1,46 @@
+LOOPWORK — Google Play Store Listing
+=====================================
+
+App name:
+  Loopwork — Loop Logic Puzzle
+
+Short description (max 80 chars):
+  Draw the one true loop. 150 hand-verified puzzles, one solution each.
+
+Full description:
+---------------------------------------------------------------
+Loopwork is a classic loop-drawing logic puzzle, done in ink.
+
+Draw a single closed loop along the dotted grid lines — no branches, no
+crossings. Every numbered cell tells you exactly how many of its four sides
+the loop must cross. Work the numbers, and the whole loop reveals itself
+one edge at a time.
+
+There is no guessing. Each of the 150 puzzles has been checked by a real
+solver to guarantee a single, logical solution — a path of pure deduction
+always exists from the first edge to the last.
+
+FEATURES
+• 150 hand-verified puzzles across three drafts
+   – First Draft (5×5), Fair Copy (6×6), Final Ink (7×7)
+• Guaranteed unique solution on every board — solvable by logic alone
+• Simple tap controls: cycle an edge between line, X, and blank
+• Live violation highlighting on any dot with too many lines
+• Earn up to three stars per puzzle for efficient solving
+• Moody noir ink-on-paper visuals
+• Calm ambient soundtrack and tactile feedback — both toggleable
+• Fully offline. No ads, no accounts, no tracking. Progress stays on your
+  device.
+
+Draw the one true line.
+
+Category: Puzzle
+Content rating: Everyone
+Tags: logic puzzle, brain teaser, slitherlink, loop the loop, deduction, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
